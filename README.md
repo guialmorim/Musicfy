@@ -2,6 +2,8 @@
 
 É um aplicativo em ReactJS que consome a [API do Spotify](https://developer.spotify.com/documentation/web-api/), listando os álbuns, músicas e playlists dos usuários, apresentando-o em uma interface limpa inspirada no Instagram
 
+![appdemo](https://github.com/guialmorim/Musicfy/blob/master/app.demo.gif)
+
 ## Frontend
 
 ### Tecnologias Usadas
